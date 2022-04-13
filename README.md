@@ -1,5 +1,5 @@
 # react js crud app
-The purpose was to understand hooks and practicing react core concepts like state, data flow.
+The purpose was to understand hooks and practicing react core concepts like state and data flow.
 
 
 # Getting Started with Create React App
