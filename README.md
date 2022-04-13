@@ -1,3 +1,7 @@
+# react js crud app
+The purpose was to understand hooks and practicing react core concepts like state, data flow.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
